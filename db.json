@@ -1,0 +1,39 @@
+{
+  "comments": [
+    {
+      "body": "some comment",
+      "likes": 22,
+      "id": 1
+    },
+    {
+      "body": "hello\n",
+      "likes": 17,
+      "id": 2
+    },
+    {
+      "body": "hi\n",
+      "likes": 19,
+      "id": 3
+    },
+    {
+      "body": "nn\n",
+      "likes": 1,
+      "id": 4
+    },
+    {
+      "body": "hey\n",
+      "likes": 2,
+      "id": 5
+    },
+    {
+      "body": "hey\n",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "body": "hw\n",
+      "likes": 0,
+      "id": 7
+    }
+  ]
+}
